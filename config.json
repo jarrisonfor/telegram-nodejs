@@ -1,0 +1,5 @@
+{
+    "token": "tokendelbot",
+    "chatid": "chatid",
+    "postgres": "postgres://usuario:password@localhost:5432/basededatos"
+}
